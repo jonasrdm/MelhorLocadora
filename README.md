@@ -7,7 +7,11 @@ Gostaria de levantar dois pontos do enunciado que acho que ficaram meio confusos
 
 - Para o input 1, de acordo com os dados do enunciado, o output deveria ser da SouthCar... **Não**?
 
-Obrigado! :smile:
+Ah, algumas coisas importantes que lembrei:
+- Construi a aplicação no visual studio 2015
+- Meu windows está em Inglês e por isso usei InvariantCulture para tratar as datas. No arquivo de input o mês deveria seguir o padrão Feb/Mar/Apr/May/Jun/Jul/Aug/Sep/Oct/Nov/Dec caso contrário pode haver erro de conversão em alguns casos.
 
-Atenciosamente,
-Jonas Melo
+**Caso tenha alguma pergunta/dúvida, estou à disposição**
+
+Obrigado! :smile:
+Jonas
