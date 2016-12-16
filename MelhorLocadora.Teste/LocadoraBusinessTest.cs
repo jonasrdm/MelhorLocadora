@@ -11,7 +11,7 @@ namespace MelhorLocadora.Teste
     /// Classe de testes unitários da camada de negócio de locadoras
     /// </summary>
     [TestClass]
-    public class ILocadoraBusinessTest
+    public class LocadoraBusinessTest
     {
         [TestMethod]
         [ExpectedException(typeof(ArgumentOutOfRangeException), "Não existe tipo de carro que suporte esta quantidade de passageiros")]
